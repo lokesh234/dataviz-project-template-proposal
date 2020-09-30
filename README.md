@@ -21,7 +21,7 @@ Tasks and Questions taht drive the visualization and interaction decisions for t
 
 ## Sketches
 
-
+![image](viz1.PNG)
 
 ## Open Questions
 
