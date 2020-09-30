@@ -9,7 +9,7 @@ The data I propose to visualize for my project is the Duke University Greek Life
 
 I’ve created a proof of concept visualization of this data. It's a horizotnal bar chart and it shows the average price of high school tuition of the people who joined Greek Life at Duke by the different states they come from. 
 
-[![image](https://ibb.co/3s5hgT3)](https://vizhub.com/lokesh234/97130be4da0b456eaf092c8fffdd76ec?edit=files)
+[![image](Image.PNG)](https://vizhub.com/lokesh234/97130be4da0b456eaf092c8fffdd76ec?edit=files)
 
 ## Questions & Tasks
 
