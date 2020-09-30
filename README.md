@@ -11,8 +11,6 @@ I’ve created a proof of concept visualization of this data. It's a horizotnal 
 
 [![image](https://ibb.co/3s5hgT3)](https://vizhub.com/lokesh234/97130be4da0b456eaf092c8fffdd76ec?edit=files)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
-
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
