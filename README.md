@@ -16,14 +16,20 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 Tasks and Questions taht drive the visualization and interaction decisions for this project:
 
  * Create a United States HeatMap of students that come from different states to Duke and once you click on a circle it opens a new page to show a bar chart of the different fraternities or Sororities.
+ * Create a pie chart that lets you click on a section and allows you to see the average price of tuition of the fraternity by each slice.
  * Creating bar chart from a drop menu of different states for the average tuition price by high school of Fraternities and Sororities.
  * Creating a pie chart based on the different factors available in the dataset about if the student went to a religious high school, if they recieved a merit scholarship, if they went to a Co-Ed High School, if they are in a Sports Team, How many international students joined Greek Life and how many did not ? 
 
 ## Sketches
 
+The following image is a rough sketch of the United States Heat map of students that come from different states to Duke and once you click on a circle it opens a new page to show a bar chart of the different fraternities or Sororities. The pie chart right next to it lets you click on a section and allows you to see the average price of tuition of the fraternity by each slice.
+
 ![image](viz1.PNG)
 
+The following image shows one of the different factors about the dataset that allows you to see if the students went to a public or a private high school. The dropdown next to it lets you create a bar chart based on different states for the average tuition price by high school of Fraternities and Sororities.
+
 ![image](viz2.PNG)
+
 
 ## Open Questions
 
