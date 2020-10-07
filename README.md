@@ -13,12 +13,12 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 
 ## Questions & Tasks
 
-Tasks and Questions taht drive the visualization and interaction decisions for this project:
+Tasks and Questions that drive the visualization and interaction decisions for this project:
 
  * Create a United States HeatMap of students that come from different states to Duke and once you click on a circle it opens a new page to show a bar chart of the different fraternities or Sororities.
  * Create a pie chart that lets you click on a section and allows you to see the average price of tuition of the fraternity by each slice.
- * Creating bar chart from a drop menu of different states for the average tuition price by high school of Fraternities and Sororities.
- * Creating a pie chart based on the different factors available in the dataset about if the student went to a religious high school, if they recieved a merit scholarship, if they went to a Co-Ed High School, if they are in a Sports Team, How many international students joined Greek Life and how many did not ? 
+ * Creating a bar chart from a drop menu of different states for the average tuition price by high school of Fraternities and Sororities.
+ * Creating a pie chart based on the different factors available in the dataset about if the student went to a religious high school, if they received a merit scholarship, if they went to a Co-Ed High School, if they are in a Sports Team, How many international students joined Greek Life and how many did not? 
 
 ## Sketches
 
@@ -44,8 +44,8 @@ I will build a complete react website to hold all of these visualizations. I hav
 | 2 | Creating the United States heatmap of all the students who joined Greek Life in different states and cities with the option of choosing who joined Greek Life vs Who Did not. | 10/14/2020 |
 | 3 | Resizing the points on the map to being circles based on the tuition price of high school students. | 10/18/2020 |
 | 5 | Making the circles clickable that opens up a bar chart of fraternities and sororities based on the state that the user clicked.| 10/21/2020 |
-| 3 | Creating a pie chart of the average price of high school of fraternities and sororities and you can switch between using a bottom navigation. | 10/28/2020 |
-| 2 | Creating a vertical bar chart with a bottom navigation of fraternities and sororities with a dropdown menu that allows you switch states (Realized this sketch just need to make some design changes). | 10/31/2020 |
-| 2 | Making a side bar for the last page that holds the option of switching between different data visualizations. | 10/31/2020 |
+| 3 | Creating a pie chart of the average price of high school of fraternities and sororities and you can switch between using a bottom navigation component. | 10/28/2020 |
+| 2 | Creating a vertical bar chart with a bottom navigation component of fraternities and sororities with a dropdown menu that allows you to switch states (Realized this sketch just need to make some design changes). | 10/31/2020 |
+| 2 | Making a sidebar for the last page that holds the option of switching between different data visualizations. | 10/31/2020 |
 | 7 | Creating multiple visualizations with different styling. | 10/31/2020 |
-| 5 | Allowing user to switch between the visualizations to see which students joined greek life based on different factors like if they went to Co-Ed School,  Religious School, and many more . | 11/04/2020 |
+| 5 | Allowing users to switch between the visualizations to see which students joined greek life based on different factors like if they went to Co-Ed School,  Religious School, and many more . | 11/04/2020 |
