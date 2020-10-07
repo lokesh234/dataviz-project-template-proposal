@@ -37,15 +37,15 @@ I will build a complete react website to hold all of these visualizations. I hav
 
 ## Schedule of Deliverables 
 
-[Project Timeline][Project Timeline]
-|Phase        | Activities          |  Completion |
+[Project Timeline]
+|Time Required (in Hrs)    | Task          |  Expected Delivery | 
 |-------------|---------------|-------------|
-| Kickoff | Charming remarkable Muji wardrobe first-class international Gaggenau St Moritz signature joy efficient. | 1 May, 2015 |
-| Research | Helsinki Sunspel Ettinger punctual cutting-edge Singapore destination St Moritz impeccable premium tote bag eclectic. | 15 May, 2015 |
-| Wireframing | Destination Shinkansen K-pop global finest. Espresso Tsutaya boulevard flat white sharp Winkreative Boeing 787 Comme des Garçons elegant vibrant handsome Swiss Shinkansen boutique Fast Lane. | 29 May, 2015 |
-| Style Guide | Ginza efficient alluring, cutting-edge Sunspel bespoke Helsinki carefully curated. | 12 June, 2015 |
-| Prototyping | Business class ANA Helsinki cosy punctual, conversation charming signature. | 26 June, 2015 |
-| Finalization | St Moritz sleepy the highest quality discerning Asia-Pacific iconic Singapore lovely Fast Lane the best perfect espresso Gaggenau. | 10 July, 2015 |
-| CMS Implementation | Joy pintxos perfect Toto Singapore smart boutique Shinkansen punctual Ettinger ryokan essential Nordic.  | 24 July, 2015 |
-| Testing & Training | Ettinger extraordinary boulevard, hand-crafted Gaggenau concierge discerning remarkable Porter first-class Muji Scandinavian essential. | 7 August, 2015 |
-| Launch | Izakaya Comme des Garçons exclusive, Asia-Pacific Singapore boulevard joy liveable. | 21 August, 2015 |
+| 5 | Creating the base website with links to hold all the visualizations with styling from Material-UI. | 10/11/2020 |
+| 2 | Creating the United States heatmap of all the students who joined Greek Life in different states and cities with the option of choosing who joined Greek Life vs Who Did not. | 10/14/2020 |
+| 3 | Resizing the points on the map to being circles based on the tuition price of high school students. | 10/18/2020 |
+| 5 | Making the circles clickable that opens up a bar chart of fraternities and sororities based on the state that the user clicked.| 10/21/2020 |
+| 3 | Creating a pie chart of the average price of high school of fraternities and sororities and you can switch between using a bottom navigation. | 10/28/2020 |
+| 2 | Creating a vertical bar chart with a bottom navigation of fraternities and sororities with a dropdown menu that allows you switch states (Realized this sketch just need to make some design changes). | 10/31/2020 |
+| 2 | Making a side bar for the last page that holds the option of switching between different data visualizations. | 10/31/2020 |
+| 7 | Creating multiple visualizations with different styling. | 10/31/2020 |
+| 5 | Allowing user to switch between the visualizations to see which students joined greek life based on different factors like if they went to Co-Ed School,  Religious School, and many more . | 10/31/2020 |
