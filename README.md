@@ -48,4 +48,4 @@ I will build a complete react website to hold all of these visualizations. I hav
 | 2 | Creating a vertical bar chart with a bottom navigation of fraternities and sororities with a dropdown menu that allows you switch states (Realized this sketch just need to make some design changes). | 10/31/2020 |
 | 2 | Making a side bar for the last page that holds the option of switching between different data visualizations. | 10/31/2020 |
 | 7 | Creating multiple visualizations with different styling. | 10/31/2020 |
-| 5 | Allowing user to switch between the visualizations to see which students joined greek life based on different factors like if they went to Co-Ed School,  Religious School, and many more . | 10/31/2020 |
+| 5 | Allowing user to switch between the visualizations to see which students joined greek life based on different factors like if they went to Co-Ed School,  Religious School, and many more . | 11/04/2020 |
